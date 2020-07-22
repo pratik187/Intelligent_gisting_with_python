@@ -1,0 +1,11 @@
+> git config remote.origin.url git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/ac-aca-utilities.git # timeout=10
+Fetching upstream changes from git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/ac-aca-utilities.git
+> git fetch --tags --progress git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/ac-aca-utilities.git +refs/heads/*:refs/remotes/origin/*
+> git fetch --no-tags --progress https://github.build.ge.com/ctt-jaas/dsl-lib.git +refs/heads/*:refs/remotes/origin/*
+skipping resolution of commit remotes/origin/release/eis-1.2, since it originates from another repository
+> git ls-remote -h git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/devops-dsl.git # timeout=10
+> git config remote.origin.url git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/devops-dsl.git # timeout=10
+Fetching upstream changes from git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/devops-dsl.git
+> git fetch --no-tags --progress git@gitlab-gxp.cloud.health.ge.com:Edison-Imaging-Service/devops-dsl.git +refs/heads/*:refs/remotes/origin/*
+skipping resolution of commit remotes/origin/release/eis-1.2, since it originates from another repository
+skipping resolution of commit remotes/origin/release/eis-1.2, since it originates from another repository
